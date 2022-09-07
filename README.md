@@ -1,4 +1,4 @@
-![Screenshot from 2022-09-07 15-28-37](https://user-images.githubusercontent.com/72959655/188850437-6a52d19a-ab3c-4933-9c76-4db20a08b830.png)
+
 # Vanilla-Challenge
 
 
