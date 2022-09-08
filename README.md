@@ -12,3 +12,8 @@ Day 1: DRUM-KIT
 DAY 2: CSS+JS CLOCK
 
 ![Screenshot from 2022-09-07 15-28-37](https://user-images.githubusercontent.com/72959655/188850437-6a52d19a-ab3c-4933-9c76-4db20a08b830.png)
+
+
+Day 3: update css with js
+
+![Screenshot from 2022-09-08 09-16-13](https://user-images.githubusercontent.com/72959655/189029719-ecdbe71c-13f1-42ac-9d00-06ef1fc1f5f1.png)
