@@ -17,3 +17,7 @@ DAY 2: CSS+JS CLOCK
 Day 3: update css with js
 
 ![Screenshot from 2022-09-08 09-16-13](https://user-images.githubusercontent.com/72959655/189029719-ecdbe71c-13f1-42ac-9d00-06ef1fc1f5f1.png)
+
+DAY 4:FLEX-PANEL GALLERY
+
+![Screenshot from 2022-09-09 10-41-23](https://user-images.githubusercontent.com/72959655/189276205-eceee4cc-0925-4ad9-af33-0bbdc2d1dd9c.png)
