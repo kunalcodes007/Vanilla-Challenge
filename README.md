@@ -21,3 +21,7 @@ Day 3: update css with js
 DAY 4:FLEX-PANEL GALLERY
 
 ![Screenshot from 2022-09-09 10-41-23](https://user-images.githubusercontent.com/72959655/189276205-eceee4cc-0925-4ad9-af33-0bbdc2d1dd9c.png)
+
+DAY 5: TYPE-AHEAD
+
+![Screenshot from 2022-09-09 11-13-17](https://user-images.githubusercontent.com/72959655/189279736-ae4f1557-d710-43cc-9b79-c4130e8828b2.png)
